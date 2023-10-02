@@ -1,5 +1,5 @@
 {
-  "commands": [{
-	"hola": "hola"
-  }]
+  "commands": [
+    "clear A8"
+  ]
 }
